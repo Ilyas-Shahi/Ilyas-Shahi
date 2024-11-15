@@ -35,7 +35,7 @@
 3. [Mansionlife.com](http://Mansionlife.com): Developed UI features for their App. Tech Stack: Next.js, TailwindCSS, TypeScript, Storybook, and Jest.
 4. [Klarus.com](http://Klarus.com): Front-end development from Figma to Nuxt.js and CMS integration. Tech Stack: Nuxt.js, TailwindCSS, and Prismic CMS
 5. Diamono Game: Figma to Next.js development of landing page. Tech Stack: Next.js, TailwindCSS, and Figma.
-6. (Logo Media)[https://logo.media]: Connect Prebought Template to Sanity CMS Tech Stack: Next.js, Material UI, and Sanity
+6. [Logo Media](https://logo.media): Connect Prebought Template to Sanity CMS Tech Stack: Next.js, Material UI, and Sanity
 
 ### Practice Projects:
 1. [Chatsee](https://github.com/Ilyas-Shahi/chatsee): Realtime chat app with filesharing, built with MERN stack.
