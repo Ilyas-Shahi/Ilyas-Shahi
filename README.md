@@ -1,5 +1,5 @@
 ## Hey there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="28" height="28"> 
-#### I'm Ilyas, a freelance Full-Stack Developer (Front-End focused).
+#### I'm Ilyas, a freelance Front-End focused Full-Stack Developer.
 
 ### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -31,11 +31,12 @@
 
 ### Portfolio:
 1. Science Museum of Minnesota: Development of a Quiz App for an Exhibition screen. Tech Stack: React, Gatsby, TailwindCSS, Figma and Contentful.
-2. [Stockclubs.com](http://Stockclubs.com): I developed features for their dashboard and helped with code cleanup. Tech Stack: React, TailwindCSS, Figma, and Contentful.
-3. [Mansionlife.com](http://Mansionlife.com): Developed UI features for their App. Tech Stack: Next.js, TailwindCSS, TypeScript, Storybook, and Jest.
-4. [Klarus.com](http://Klarus.com): Front-end development from Figma to Nuxt.js and CMS integration. Tech Stack: Nuxt.js, TailwindCSS, and Prismic CMS
-5. Diamono Game: Figma to Next.js development of landing page. Tech Stack: Next.js, TailwindCSS, and Figma.
-6. [Logo Media](https://logo.media): Connect Prebought Template to Sanity CMS Tech Stack: Next.js, Material UI, and Sanity
+2. [Quik Websites](https://app.quikwebsites.com): From Figma to Next.js development of a user dashboard. Tech Stack: Next.js, React, TailwindCSS, Shadcn, Stripe, Figma and Firebase.
+3. [Stockclubs.com](http://Stockclubs.com): I developed features for their dashboard and helped with code cleanup. Tech Stack: React, TailwindCSS, Figma, and Contentful.
+4. [Mansionlife.com](http://Mansionlife.com): Developed UI features for their App. Tech Stack: Next.js, TailwindCSS, TypeScript, Storybook, and Jest.
+5. [Klarus.com](http://Klarus.com): Front-end development from Figma to Nuxt.js and CMS integration. Tech Stack: Nuxt.js, TailwindCSS, and Prismic CMS
+6. Diamono Game: Figma to Next.js development of landing page. Tech Stack: Next.js, TailwindCSS, and Figma.
+7. [Logo Media](https://logo.media): Connect Prebought Template to Sanity CMS Tech Stack: Next.js, Material UI, and Sanity
 
 ### Practice Projects:
 1. [Chatsee](https://github.com/Ilyas-Shahi/chatsee): Realtime chat app with filesharing, built with MERN stack.
